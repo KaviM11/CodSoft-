@@ -10,3 +10,4 @@ Internship Task
 1. Titanic survival prediction
 2. Iris Flower Classification
 3. Sales prediction
+4. Movie Rating Prediction 
